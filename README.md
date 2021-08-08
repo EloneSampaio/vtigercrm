@@ -1,4 +1,4 @@
 Vtiger CRM
 ==========
 
-Vtiger is a PHP based web application that enables businesses to increase sales wins, marketing ROI, and support satisfaction by providing tools for employees and management work more effectively, capture more data, and derive new actionable insights from across the customer lifecycle.
+Vtiger é uma aplicação web baseada em PHP que permite às empresas aumentar os ganhos de vendas, o ROI do marketing, e apoiar a satisfação através do fornecimento de ferramentas para os empregados e o trabalho de gestão de forma mais eficaz, capturar mais dados, e obter novos insights accionáveis a partir de todo o ciclo de vida do cliente.
