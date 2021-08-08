@@ -1,0 +1,108 @@
+2021-08-07T23:12:03+01:00 FATAL VT Links added
+2021-08-07T23:12:04+01:00 FATAL VT Lookup Events Registered
+2021-08-07T23:12:05+01:00 FATAL VT Settings Block and Field added
+2021-08-07T23:12:06+01:00 FATAL VT ReceiveIncomingcalls ActionName Added
+2021-08-07T23:12:06+01:00 FATAL VT MakeOutgoingCalls ActionName Added
+2021-08-07T23:12:07+01:00 FATAL VT Successfully added Module Related lists
+2021-08-08T01:45:41+00:00 FATAL VT array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+2021-08-08T01:45:41+00:00 FATAL VT NULL
+2021-08-08T01:45:41+00:00 FATAL VT Documents_22
+2021-08-08T01:45:41+00:00 FATAL VT array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+2021-08-08T01:45:41+00:00 FATAL VT NULL
+2021-08-08T01:45:41+00:00 FATAL VT Documents_22
+2021-08-08T01:46:08+00:00 FATAL VT array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => 'MARKETING',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Documentos',
+  '_pjax' => '#pjaxContainer',
+)
+2021-08-08T01:47:19+00:00 FATAL VT array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Default',
+  '_pjax' => '#pjaxContainer',
+)
+2021-08-08T01:47:20+00:00 FATAL VT array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Documentos',
+  '_pjax' => '#pjaxContainer',
+)
+2021-08-08T01:47:54+00:00 FATAL VT array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '["notes_title","filename","modifiedtime","assigned_user_id","filelocationtype","filestatus"]',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Documentos',
+  '_pjax' => '#pjaxContainer',
+)
+2021-08-08T01:48:10+00:00 FATAL VT array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '["notes_title","filename","modifiedtime","assigned_user_id","filelocationtype","filestatus"]',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Documentos',
+  '_pjax' => '#pjaxContainer',
+)

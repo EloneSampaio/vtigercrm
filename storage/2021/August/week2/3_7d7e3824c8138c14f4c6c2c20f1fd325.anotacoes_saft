@@ -1,0 +1,19 @@
+Anotações
+
+Substituições
+
+Invoice -> WorkDocument
+
+InvoiceNo-> DocumentNumber
+InvoiceStatus->WorkStatus
+InvoiceStatusDate->WorkStatusDate
+InvoiceDate->WorkDate
+InvoiceType->WorkType
+
+add tag <HashControl>
+verificar se pode-se remover a tag <SpecialRegimes>
+
+add tag <TaxExemptionReason>
+add tag <TaxExemptionCode>
+
+
